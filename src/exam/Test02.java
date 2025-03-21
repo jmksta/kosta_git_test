@@ -1,7 +1,5 @@
 package exam;
 
 public class Test02 {
-	public void aa() {
-		System.out.println("수정 테스트");
-	}
+
 }
