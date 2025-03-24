@@ -9,5 +9,6 @@ public class Test01 {
 
 		System.out.println("원격에서 수정했어요 - 충돌!");
 		System.out.println("로컬에서 변경사항 - stash 저장");
+		System.out.println("원격에서 수정했어요 - 충돌!");
 	}
 }
